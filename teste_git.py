@@ -3,3 +3,5 @@
 entrada = "hello world"
 print(f"{entrada}")
 #alteracao do 2do DEV 
+#mais uma alteracao teste 
+idade = int(input())
